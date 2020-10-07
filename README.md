@@ -14,7 +14,7 @@ Make your own levels
 ```
 edit boards.py
 ```
-https://github.com/hexabitsweden/TermRunner/blob/main/screenshots/levelone.png?raw=true
+![Image of TermRunner](https://github.com/hexabitsweden/TermRunner/blob/main/screenshots/boards.png?raw=true)
 
 Help
 ```
