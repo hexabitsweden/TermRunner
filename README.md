@@ -1,53 +1,41 @@
 # TermRunner
 Fun terminal-game in python
 
-![Image of Terminal-post-it](https://github.com/hexabitsweden/Terminal-post-it/blob/main/example.png?raw=true)
+![Image of TermRunner](https://github.com/hexabitsweden/TermRunner/blob/main/screenshots/startup.png?raw=true)
 
-![Image of Yaktocat](https://github.com/hexabitsweden/Terminal-post-it/blob/main/result.png?raw=true)
+![Image of TermRunner](https://github.com/hexabitsweden/TermRunner/blob/main/screenshots/levelone.png?raw=true)
 
 ## Getting Started
 Donwload and extract. Or clone from this site.
 ```
-./MAKEFILES
+python termrunner.py
 ```
-And then
+Make your own levels
 ```
-./tnotes
+edit boards.py
 ```
+https://github.com/hexabitsweden/TermRunner/blob/main/screenshots/levelone.png?raw=true
+
 Help
 ```
-Not yet implemented (later this week maybe)
-but there is some sample notes with help and 
-info about all the commands.
+Not yet implemented
 ```
 
 ### Prerequisites
 
-Only tested on FreeBSD (Developed on FreeBSD 8) and a couple of Linux distros.
-It wont compile on MacOS. 
+Need python
 
-This is probably the shittiest piece of code on the planet but it works.
+Developed on python 2.1
 
-_if it ain't broke, don't fix it_
+Should work with newer versions
 
-
-## Running
-![Image of Yaktocat](https://github.com/hexabitsweden/Terminal-post-it/blob/main/archivednotes.png?raw=true)
-
-![Image of Yaktocat](https://github.com/hexabitsweden/Terminal-post-it/blob/main/makenote.png?raw=true)
-
-![Image of Yaktocat](https://github.com/hexabitsweden/Terminal-post-it/blob/main/makenote2.png?raw=true)
-
-![Image of Yaktocat](https://github.com/hexabitsweden/Terminal-post-it/blob/main/result.png?raw=true)
 
 ## License
 
 This project is licensed under the BSD License
 
 ## Acknowledgments
-* Im not a not professional C-programmer
-* It's workes for me. I Use it daily since many years.
-
-
+* Works great in python 2.1
+* Work in newer versions but you need to hold down the arrowkeys
 
 For more info: http://blog.codeland.se
